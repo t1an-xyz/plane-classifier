@@ -1,0 +1,1 @@
+jupyter lab --IdentityProvider.token MY_TOKEN --ip 0.0.0.0 --no-browser

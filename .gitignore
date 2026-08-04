@@ -1,6 +1,15 @@
 # Datasets
 Commercial aircraft classification/
+dataset
 
+# jupyter
+.jupyter*
+
+# weights
+*.pt
+
+# AI
+opencode.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,0 +1,16 @@
+Airbus A220
+Airbus A310
+Airbus A320
+Airbus A330
+Airbus A340
+Airbus A350
+Airbus A380
+Boeing 737
+Boeing 747
+Boeing 757
+Boeing 767
+Boeing 777
+Boeing 787
+Bombardier CRJ
+Embraer E-Jet
+McDonnell Douglas MD-80/90
